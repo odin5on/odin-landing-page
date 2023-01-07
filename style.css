@@ -97,3 +97,28 @@ button {
   font-size: 18px;
   text-align: center;
 }
+
+.quote{
+  display: flex;
+  flex-direction: column;
+  background-color: #e5e7eb;
+  align-items: center;
+  padding: 100px;
+}
+
+.quote p{
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: 100;
+  margin: 0;
+}
+
+.quote div{
+  width: 770px;
+}
+
+.left {
+  color: #1f2937;
+  font-size: 24px;
+  text-align: right;
+}
